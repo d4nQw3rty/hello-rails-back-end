@@ -33,7 +33,7 @@
 
 **Rails  APi** Is a Project to Build a Back-end API with Ruby on Rails to later connect it with a front-end framework like React or Vue.js.
 
-**[Rails  React app Link](https://github.com/d4nQw3rty/hello-react-front-end/pull/1)** Is a Project to Build a Back-end API with Ruby on Rails to later connect it with a front-end framework like React or Vue.js.
+**[Rails  React app Link](https://github.com/d4nQw3rty/hello-react-front-end/pull/1)** This link will redirect you to a repo with a functional front end for this API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
