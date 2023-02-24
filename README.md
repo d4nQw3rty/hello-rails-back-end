@@ -198,7 +198,8 @@ If you like this project you can give me a ⭐️
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank to [Microverse](https://www.microverse.org/) for the opportunity to learn and grow as a developer.
-To my coding partners [Cesar Valencia](https://github.com/cvalencia1991) and [Oscar Fernandez](https://github.com/OscarFMdev) for the support and help.
+To my coding partners [Cesar Valencia](https://github.com/cvalencia1991) 
+and [Oscar Fernandez](https://github.com/OscarFMdev) for the support and help.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
